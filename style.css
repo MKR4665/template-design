@@ -407,7 +407,7 @@
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding: 20px;
+        padding-block: 25px;
     }
     .hero-image p{
         width: 100%;
