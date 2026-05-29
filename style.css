@@ -425,6 +425,18 @@
     color: white;
     }
 
+    .section-header1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px 0;
+    }
+    .section-header1 h3{
+    color: #e64311;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
     .services{
         flex-direction: column;
         align-items: center;
